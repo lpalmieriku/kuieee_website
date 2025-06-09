@@ -1,0 +1,10 @@
+.header {
+    background-color: navy;
+    text-align: center;
+    color: white;
+}
+
+.header-element {
+    padding: 0.5%;
+}
+
